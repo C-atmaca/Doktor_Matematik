@@ -1,7 +1,7 @@
 # Doktor_Matematik
 Android apk file of my 3. place winning gamejam game.
 
-Game play video: https://www.youtube.com/watch?v=m1_4NPDa4YM&t=2s
+Gameplay video: https://www.youtube.com/watch?v=m1_4NPDa4YM&t=2s
 
 Game trailer: https://www.youtube.com/watch?v=qsqGGichEq0
 
